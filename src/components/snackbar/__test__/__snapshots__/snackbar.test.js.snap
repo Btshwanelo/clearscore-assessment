@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`snackbar component should render correctly 1`] = `
+"<ForwardRef(Stack) spacing={2} sx={{...}}>
+  <ForwardRef(Snackbar) open=\\"\\" anchorOrigin={{...}} autoHideDuration={6000} onClose={[Function: handleClose]}>
+    <ForwardRef(Alert) severity=\\"error\\" sx={{...}} />
+  </ForwardRef(Snackbar)>
+</ForwardRef(Stack)>"
+`;

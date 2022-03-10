@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pill component should render correctly 1`] = `"<ForwardRef(Typography) variant=\\"p\\" component=\\"div\\" color=\\"primary.clr_orange_pill_text\\" backgroundColor=\\"custom.orange_pill_background\\" sx={{...}} />"`;

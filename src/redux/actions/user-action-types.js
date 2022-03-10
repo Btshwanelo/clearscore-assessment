@@ -1,0 +1,6 @@
+export const GET_REPORT = " GET_REPORT";
+export const GET_INSIGHT_DETAILS = "GET_INSIGHT_DETAILS";
+export const APP_ERROR = "APP_ERROR";
+export const APP_LOADING = "APP_LOADING";
+export const INSIGHT_LOADING = "INSIGHT_LOADING";
+export const INSIGHT_ERROR = "INSIGHT_ERROR";

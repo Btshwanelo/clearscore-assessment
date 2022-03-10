@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Loader component should render correctly 1`] = `
+"<div>
+  <ForwardRef(Backdrop) sx={{...}} open={true}>
+    <ForwardRef(CircularProgress) color=\\"inherit\\" />
+  </ForwardRef(Backdrop)>
+</div>"
+`;
